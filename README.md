@@ -2,8 +2,8 @@
 
 - Artificial Intelligence
 - Backend
-- Golang
-- Python
+- Python, Node, Golang
+
 
 
 <div>
