@@ -2,8 +2,10 @@
 
 ```python
 class Marcos(Human):
+    "Marcos Class."
 
     def __init__(self):
+        "Constructor."
         super().__init__()
         self.name = "Marcos Vinicius"
         self.nationality = "Brazilian"
