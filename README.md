@@ -12,7 +12,7 @@ class Marcos(Human):
         self.technologies = {
             "Node-Typescript": ["Express", "Nest.js", "TypeOrm", "PrismaOrm"],
             "Python": {
-                "dev": ["Flask", "FastApi"],
+                "dev": ["Flask", "FastApi", "Django"],
                 "ML": ["Pandas", "scikit-learn", "TensorFlow", "XGBoost", "LightGBM", "CatBoost"]
             },
             "GoLang": ["Gin"],
