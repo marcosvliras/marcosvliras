@@ -1,31 +1,3 @@
-## ❄️ About me:
-
-```python
-class Marcos(Human):
-    "Marcos Class."
-
-    def __init__(self):
-        "Constructor."
-        super().__init__()
-        self.name = "Marcos Vinicius"
-        self.nationality = "Brazilian"
-        self.technologies = {
-            "Node-Typescript": ["Express", "Nest.js", "TypeOrm", "PrismaOrm"],
-            "Python": {
-                "dev": ["Flask", "FastApi", "Django"],
-                "ML": ["Pandas", "scikit-learn", "TensorFlow", "XGBoost", "LightGBM", "CatBoost"]
-            },
-            "GoLang": ["Gin"],
-            "Events": ["RabbitMQ", "SQS"],
-            "CloudComputing": ["AWS", "GCP", "Docker", "Kubernetes"],
-            "Database": {
-                "SQL": ["Postgres", "MySQL", "SQLite"],
-                "NoSQL": ["MongoDB"],
-            },
-        }
-
-```
-
 ## 🌀 Most Used Languages:
 
 <div>
