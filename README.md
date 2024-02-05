@@ -1,3 +1,15 @@
+# About Me
+Currently, I work as a Machine Learning Engineer at [PicPay](https://www.linkedin.com/company/picpay). Lately, I've been studying software architecture.
+
+## I'm interested in
+- 💻 Software Development
+- 🤖 Artificial Intelligence
+- 🌐 MLOps
+
+## I like coding in
+- Python 🐍
+- GoLang 🚀
+
 ## 🌀 Most Used Languages:
 
 <div>
