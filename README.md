@@ -2,9 +2,9 @@
 Currently, I work as a Machine Learning Engineer at [PicPay](https://www.linkedin.com/company/picpay). Lately, I've been studying software engineering.
 
 ## I'm interested in
-- 💻 Software Development
-- 🤖 Artificial Intelligence
-- 🌐 MLOps
+- Software Development
+- Artificial Intelligence
+- MLOps
 - Python 
 - Golang
 - Java
