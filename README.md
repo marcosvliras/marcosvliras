@@ -5,10 +5,9 @@ Currently, I work as a Machine Learning Engineer at [PicPay](https://www.linkedi
 - 💻 Software Development
 - 🤖 Artificial Intelligence
 - 🌐 MLOps
-
-## I like coding in
-- Python 🐍
-- GoLang 🚀
+- Python 
+- Golang
+- Java
 
 ## 🌀 Most Used Languages:
 
